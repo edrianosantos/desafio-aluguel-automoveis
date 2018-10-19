@@ -18,7 +18,7 @@ Criar uma API para gerenciar uma frota de veículos para alugar. Através destes
  - Devolução veículo;
  - Relatório gerencial de veículos alugados com somatórios dos pagamentos
 
-OBS: O serviço de reserva, o veículo será disponibilizado para o condutor em uma data futura (ou seja, um agendamento) enquanto no de aluguel o veículo é disponibilizado no exato momento da solicitação.
+OBS: Para o serviço de reserva, o veículo será disponibilizado ao condutor em uma data futura (ou seja, um agendamento) enquanto no de aluguel o veículo é disponibilizado no exato momento da solicitação.
 
 ## Tecnologias Utilizadas
 
