@@ -2,7 +2,7 @@
 
 ## Oportunidade
 
-Olá! Temos uma oportunidade para desenvolvedor na nossa empresa e gostaríamos que você participasse do nosso processo seletivo. Ao fim do processo, você receberá um feedback do nosso time com o resultado do processo 😃.
+Olá! Temos uma oportunidade para desenvolvedor na nossa na Novio e gostaríamos que você participasse do nosso processo seletivo. Ao fim do processo, você receberá um feedback do nosso time com o resultado do processo 😃.
 
 ## Detalhamento do desafio
 
