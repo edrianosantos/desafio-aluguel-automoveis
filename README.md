@@ -38,4 +38,4 @@ OBS: Para o serviço de reserva, o veículo será disponibilizado ao condutor em
 
 1. Após o envio do desafio você terá 3 dias para desenvolver. Seja criativo! Utilize as ferramentas e frameworks ao seu favor.
 2. Atualize o README.MD do projeto e detalhe as etapas para que a aplicação execute com sucesso.
-3. Após finalizado envie o projeto zipado para o e-mail dangellys@vsoft.com.br.
+3. Após finalizado envie o projeto zipado para o e-mail dangellys@novio.com.br.
